@@ -1,83 +1,35 @@
- <div align="center">
-    <!-- BANNER PRINCIPAL: Gerado automaticamente com efeito de gradiente tecnológico -->
-    <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=Hi,%20I'm%20R
-  yan%20Carvalho&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20Java%20Enthusiast&descAlignY
-  =60&descFontSize=25" width="100%" />
-  </div>
+<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
-  <br>
+###
 
-  <div align="center">
-    <!-- LINHA DIVISÓRIA TECNOLÓGICA 1 -->
-    <img src="https://capsule-render.vercel.app/render?type=slice&color=auto&height=10&section=header" width="100%" />
-    <h2 align="center"> ⚡ SYSTEM_CORE: SPECIALIZATION ⚡ </h2>
-    <img src="https://capsule-render.vercel.app/render?type=slice&color=auto&height=10&section=header" width="100%" />
-  </div>
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
+</div>
 
-  <br>
+###
 
-  ### 📖 About Me
-  <p align="justify">
-    Estou construindo minha trajetória na engenharia de software, com foco em criar sistemas eficientes, escaláveis e de
-  alto desempenho.
-    Atualmente, dedico meus estudos ao ecossistema <b style="color: #ED8B00;">Java</b>, dominando a Orientação a
-  Objetos, enquanto desenvolvo interfaces modernas com <b style="color: #1572B6;">HTML, CSS e JavaScript</b>.
-  </p>
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+</div>
 
-  <br>
+###
 
-  ### 🛠 Tech Stack
-  <!-- Organização em Grid para parecer profissional -->
-  <table width="100%">
-    <tr align="center">
-      <td width="33%">
-        <b>Frontend</b><br>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      </td>
-      <td width="33%">
-        <b>Backend</b><br>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-      </td>
-      <td width="33%">
-        <b>Tools</b><br>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </td>
-    </tr>
-  </table>
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=RyanCarvalho18&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/RyanCarvalho18/RyanCarvalho18/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-  <br>
+###
 
-  <div align="center">
-    <!-- LINHA DIVISÓRIA TECNOLÓGICA 2 -->
-    <img src="https://capsule-render.vercel.app/render?type=slice&color=auto&height=10&section=header" width="100%" />
-    <h2 align="center"> 📊 GITHUB_ANALYTICS </h2>
-    <img src="https://capsule-render.vercel.app/render?type=slice&color=auto&height=10&section=header" width="100%" />
-  </div>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanCarvalho18/RyanCarvalho18/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanCarvalho18/RyanCarvalho18/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RyanCarvalho18/RyanCarvalho18/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=RyanCarvalho18&show_icons=true&theme=radical&hide_bord
-  er=true" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanCarvalho18&layout=compact&theme=radical
-  &hide_border=true" width="43%" />
-  </div>
-
-  <br>
-
-  ### 🎯 Current Focus & Interests
-  ```javascript
-  const ryan = {
-    learning: "Java Spring Boot & Backend Architecture",
-    goal: "Fullstack Mastery",
-    interests: ["Clean Code", "System Design", "Open Source"]
-  };
-
-  <br>
-
-  <div align="center">
-    <!-- FOOTER FINAL COM ONDA -->
-    <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" width="100%" />
-  </div>
-  ``` 
+###
